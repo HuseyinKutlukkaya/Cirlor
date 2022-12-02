@@ -1,6 +1,6 @@
 # Cirlor
- Olusturulma tarihi: 26 ‎Ekim 2017
+Created: October 26, 2017
  
- Unity ile yapılmış bir refleks oyunudur.
+It is a reflex game made with Unity.
 
- Oyun Linki : https://play.google.com/store/apps/details?id=com.handh.cirlor&hl=en_US
+Game Link  : https://play.google.com/store/apps/details?id=com.handh.cirlor&hl=en_US
